@@ -223,6 +223,15 @@ template {
     -moz-osx-font-smoothing: grayscale
 }
 
+.fa-brands {
+    display: inline-block;
+    font: 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
 .fa-lg {
     font-size: 1.33333333em;
     line-height: .75em;
