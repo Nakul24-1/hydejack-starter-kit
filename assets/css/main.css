@@ -1896,7 +1896,8 @@ sup {
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center
+    text-align: center;
+    float: center
 }
 
 .header-icons a {
@@ -1918,7 +1919,7 @@ sup {
     transition: all .5s;
     width: 20px;
     font-size: 20px;
-    margin: 4px;
+    margin: 5px;
     border: 2px solid #fff
 }
 
