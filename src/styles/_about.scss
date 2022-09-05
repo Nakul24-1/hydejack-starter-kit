@@ -1,12 +1,14 @@
 #about {
   font-size: 120%;
-  
+
   width: 90%;
   margin: 0 auto;
   max-width: 960px;
+
   @media only screen and (min-width: $cut) {
     width: 80%;
   }
+
   svg {
     width: 60px !important;
     height: auto;
@@ -16,7 +18,9 @@
 .tech {
   margin: 10px;
   flex: 1 1 0;
-  h2, h3 {
+
+  h2,
+  h3 {
     font-weight: 400;
   }
 }
@@ -28,9 +32,11 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+
   p {
     font-size: 16px;
   }
+
   @media only screen and (min-width: $cut) {
     flex-wrap: nowrap;
     font-size: 75px;
@@ -40,6 +46,7 @@
 .user-details {
   text-align: center;
   margin: 5px auto;
+
   h1 {
     font-weight: 400;
   }
