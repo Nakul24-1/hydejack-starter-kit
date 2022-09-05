@@ -8,6 +8,7 @@ description: Spidey's Homepage
 username: Spidey
 user_description: |
   Hello! Thanks for taking time out and viewing my website! Really Glad that you find me interesting, I hope some girls also did 😂😂(jk). Lets move on.
+
   So, I am 17 yrs old, Commerce Student from India. I have been working in NFT 
   space for some months now, I have helped several projects some of the notable 
   ones mentioned below. I have great experience in working as a Lead Collab Manager
@@ -22,11 +23,11 @@ user_description: |
   Fond of music and Games and I have a gaming channel ( Only for my Web 2 FAM ).  
   This might be hypocritic but I love NFTs and hate NFTs at the same time, as I rarely
   mint any NFTs but I sell them 😂😂😂.
-  Enough of me, I guess. |
-  If you are a client looking for 1 spot destination for Collabs then shoot a DM on 
-  discord/Twitter DM Me!! |
-  If you are collab manager looking to do a collab contact my assistant 
-  SP17#9949 ( discord ).
+  Enough of me, I guess.
+
+  If you are a client looking for 1 spot destination for Collabs then shoot a DM on discord/Twitter DM Me!! 
+
+  If you are collab manager looking to do a collab contact my assistant SP17#9949 ( discord ).
 
 user_title: Collab Manager | Advisor | Marketing Lead
 email: spidyadv@gmail.com
@@ -35,7 +36,6 @@ twitter_username: Spideyadv
 # facebook_username: mauricio.urraco
 # linkedin_username: murraco
 # github_username:  murraco
-# gplus_username:  lorem_ipsum
 discord_username: 797727571328368671
 
 exclude: ["package.json", "src", "node_modules"]
